@@ -52,7 +52,7 @@ Mechanical Engineering Student at the University of Utah with a Minor in Compute
       </a>
     </td>
     <td valign="top">
-      <b>Mechatronics Competition Robot</b><br>
+      <b>I2C Controlled Motor Driver PCB</b><br>
       <a href="https://github.com/steinwitt/motor_driver_pcb">Board Layout</a><br>
       Designed and manufactured a motor driver PCB with I2C temperature monitoring
     </td>
