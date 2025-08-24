@@ -37,7 +37,7 @@ Mechanical Engineering student at the University of Utah (CS minor, May 2026). I
     <td valign="top">
       <b>Mechatronics Competition Robot</b><br>
       <a href="https://github.com/steinwitt/mechatronics">Control Systems and CAD</a><br>
-      Short blurb about what it does (control, CAD, sensors, etc.).
+      Developed electronics and CAD design of a competition mechatronics robot
     </td>
   </tr>
 </table>
