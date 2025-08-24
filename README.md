@@ -13,7 +13,7 @@
 ---
 
 ### 👋 About Me
-Mechanical Engineering student at the University of Utah (CS minor, May 2026). I build embedded systems that blend **PCB design**, **firmware (Zephyr/FreeRTOS)**, and **RF (BLE/LoRa)**.
+Mechanical Engineering Student at the University of Utah with a Minor in Computer Science graduating in May of 2026 with a strong interest in PCB Design, Robotics, and Embedded Systems.
 
 ### 🛠️ Skills
 - **🤖 Embedded & Firmware:** C · Zephyr RTOS · FreeRTOS · BLE (nRF52) · LoRa (SX126x) · USB-C charging · SPI/I²C/UART  
@@ -42,4 +42,20 @@ Mechanical Engineering student at the University of Utah (CS minor, May 2026). I
   </tr>
 </table>
 
+### ⚡ Electronics Projects
+
+<table>
+  <tr>
+    <td width="140" valign="top">
+      <a href="https://github.com/steinwitt/motor_driver_pcb">
+        <img src="assets/top_view.png" alt="Mechatronics robot" width="130">
+      </a>
+    </td>
+    <td valign="top">
+      <b>Mechatronics Competition Robot</b><br>
+      <a href="https://github.com/steinwitt/motor_driver_pcb">Board Layout</a><br>
+      Designed and manufactured a motor driver PCB with I2C temperature monitoring
+    </td>
+  </tr>
+</table>
 
