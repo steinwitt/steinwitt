@@ -3,8 +3,8 @@
   Mechanical Engineering Student @ University of Utah
 </p>
 
-<p align="center"><b>🤳 Connect with me</b></p>
 <p align="center">
+  <b>🤳 Connect with me</b>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/steinwitt" title="LinkedIn">
     <img alt="LinkedIn" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
   </a>
