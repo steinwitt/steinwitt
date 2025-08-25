@@ -44,10 +44,7 @@ Mechanical Engineering Student at the University of Utah with a Minor in Compute
 
 ### ⚡ Electronics Projects
 
-### ⚡ Electronics Projects
-
 <table>
-  <!-- Row 1 -->
   <tr>
     <td width="140" valign="top">
       <a href="https://github.com/steinwitt/motor_driver_pcb">
@@ -62,9 +59,6 @@ Mechanical Engineering Student at the University of Utah with a Minor in Compute
   </tr>
 
 
-  <tr><td colspan="2"><br></td></tr>
-
-  <!-- Row 2 -->
   <tr>
     <td width="140" valign="top">
       <a href="https://github.com/steinwitt/rescuenet">
