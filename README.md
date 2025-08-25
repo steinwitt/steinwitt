@@ -44,17 +44,38 @@ Mechanical Engineering Student at the University of Utah with a Minor in Compute
 
 ### ⚡ Electronics Projects
 
+### ⚡ Electronics Projects
+
 <table>
+  <!-- Row 1 -->
   <tr>
     <td width="140" valign="top">
       <a href="https://github.com/steinwitt/motor_driver_pcb">
-        <img src="assets/top_view.png" alt="Mechatronics robot" width="130">
+        <img src="assets/top_view.png" alt="I2C Motor Driver PCB" width="130">
       </a>
     </td>
     <td valign="top">
       <b>I2C Controlled Motor Driver PCB</b><br>
       <a href="https://github.com/steinwitt/motor_driver_pcb">PCB Repo</a><br>
-      Designed and manufactured a motor driver PCB with I2C temperature monitoring
+      Designed and manufactured a motor driver PCB with I²C temperature monitoring.
+    </td>
+  </tr>
+
+
+  <tr><td colspan="2"><br></td></tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td width="140" valign="top">
+      <a href="https://github.com/steinwitt/rescuenet">
+        <img src="assets/copper_view.png" alt="PCB" width="130">
+      </a>
+    </td>
+    <td valign="top">
+      <b>RescueNET Transceiver</b><br>
+      <a href="https://github.com/steinwitt/rescuenet">PCB Repo</a><br>
+      Designing a life-saving PCB to send emergency alerts when snowmobilers are
+      suffocating.
     </td>
   </tr>
 </table>
