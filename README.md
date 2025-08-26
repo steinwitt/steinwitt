@@ -29,9 +29,9 @@ Mechanical Engineering Student at the University of Utah with a Minor in Compute
 
 <table>
   <tr>
-    <td width="140" valign="top">
+    <td width="260" valign="top">
       <a href="https://github.com/steinwitt/mechatronics">
-        <img src="assets/Front_View.png" alt="Mechatronics robot" width="130">
+        <img src="assets/Front_View.png" alt="Mechatronics robot" width="250">
       </a>
     </td>
     <td valign="top">
@@ -46,9 +46,9 @@ Mechanical Engineering Student at the University of Utah with a Minor in Compute
 
 <table>
   <tr>
-    <td width="140" valign="top">
+    <td width="260" valign="top">
       <a href="https://github.com/steinwitt/motor_driver_pcb">
-        <img src="assets/top_view.png" alt="I2C Motor Driver PCB" width="130">
+        <img src="assets/top_view.png" alt="I2C Motor Driver PCB" width="250">
       </a>
     </td>
     <td valign="top">
@@ -60,9 +60,9 @@ Mechanical Engineering Student at the University of Utah with a Minor in Compute
 
 
   <tr>
-    <td width="140" valign="top">
+    <td width="260" valign="top">
       <a href="https://github.com/steinwitt/rescuenet">
-        <img src="assets/copper_view.png" alt="PCB" width="130">
+        <img src="assets/copper_view.png" alt="PCB" width="250">
       </a>
     </td>
     <td valign="top">
