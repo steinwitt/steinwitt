@@ -62,7 +62,7 @@ Mechanical Engineering Student at the University of Utah with a Minor in Compute
   <tr>
     <td width="260" valign="top">
       <a href="https://github.com/steinwitt/rescuenet">
-        <img src="assets/copper_view.png" alt="PCB" width="250">
+        <img src="assets/enclosure.jpg" alt="PCB" width="250">
       </a>
     </td>
     <td valign="top">
