@@ -5,14 +5,6 @@
   <a href="https://linkedin.com/in/steinwitt">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="mailto:steinwitt@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-me- EA4335?logo=gmail&logoColor=white&style=for-the-badge">
-  </a>
-  <!-- Optional: resume/site
-  <a href="LINK_TO_RESUME.pdf">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-4B5563?logo=googledocs&logoColor=white&style=for-the-badge">
-  </a>
-  -->
 </p>
 
 <hr/>
