@@ -3,8 +3,8 @@
   Mechanical Engineering Student @ University of Utah
 </p>
 
-<p align="center"><b>🤳 Connect with me</b></p>
 <p align="center">
+  <b>🤳 Connect with me</b>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/steinwitt" title="LinkedIn">
     <img alt="LinkedIn" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
   </a>
@@ -29,14 +29,14 @@ Mechanical Engineering Student at the University of Utah with a Minor in Compute
 
 <table>
   <tr>
-    <td width="140" valign="top">
+    <td width="260" valign="top">
       <a href="https://github.com/steinwitt/mechatronics">
-        <img src="assets/Front_View.png" alt="Mechatronics robot" width="130">
+        <img src="assets/Front_View.png" alt="Mechatronics robot" width="250">
       </a>
     </td>
     <td valign="top">
       <b>Mechatronics Competition Robot</b><br>
-      <a href="https://github.com/steinwitt/mechatronics">Control Systems and CAD</a><br>
+      <a href="https://github.com/steinwitt/mechatronics">Robot Repo</a><br>
       Developed electronics and CAD design of a competition mechatronics robot
     </td>
   </tr>
@@ -46,15 +46,30 @@ Mechanical Engineering Student at the University of Utah with a Minor in Compute
 
 <table>
   <tr>
-    <td width="140" valign="top">
+    <td width="260" valign="top">
       <a href="https://github.com/steinwitt/motor_driver_pcb">
-        <img src="assets/top_view.png" alt="Mechatronics robot" width="130">
+        <img src="assets/top_view.png" alt="I2C Motor Driver PCB" width="250">
       </a>
     </td>
     <td valign="top">
-      <b>Mechatronics Competition Robot</b><br>
-      <a href="https://github.com/steinwitt/motor_driver_pcb">Board Layout</a><br>
-      Designed and manufactured a motor driver PCB with I2C temperature monitoring
+      <b>I2C Controlled Motor Driver PCB</b><br>
+      <a href="https://github.com/steinwitt/motor_driver_pcb">PCB Repo</a><br>
+      Designed and manufactured a motor driver PCB with I²C temperature monitoring.
+    </td>
+  </tr>
+
+
+  <tr>
+    <td width="260" valign="top">
+      <a href="https://github.com/steinwitt/rescuenet">
+        <img src="assets/enclosure.jpg" alt="PCB" width="250">
+      </a>
+    </td>
+    <td valign="top">
+      <b>RescueNET Transceiver</b><br>
+      <a href="https://github.com/steinwitt/rescuenet">PCB Repo</a><br>
+      Designing a life-saving PCB to send emergency alerts when snowmobilers are
+      suffocating.
     </td>
   </tr>
 </table>
