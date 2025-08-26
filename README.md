@@ -11,7 +11,7 @@
 
 <!-- ABOUT -->
 ### 👋 About Me
-Mechanical Engineering student (’26) with a CS minor, focused on PCB design, robotics, and embedded systems (STM32 & nRF52).
+Mechanical Engineering Student at the University of Utah with a Minor in Computer Science graduating in May of 2026 with a strong interest in PCB Design, Robotics, and Embedded Systems.
 
 <!-- OPTIONAL tech strip -->
 <p>
