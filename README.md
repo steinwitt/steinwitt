@@ -63,7 +63,7 @@ please reach out on LinkedIn!
   <tr>
     <td width="260" valign="top">
       <a href="https://github.com/steinwitt/motor_driver_pcb">
-        <img src="assets/top_view.png" alt="I2C Motor Driver PCB" width="250">
+        <img src="assets/iso_view.png" alt="I2C Motor Driver PCB" width="250">
       </a>
     </td>
     <td valign="top">
