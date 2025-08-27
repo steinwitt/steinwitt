@@ -79,13 +79,35 @@ please reach out on LinkedIn!
   <tr>
     <td width="260" valign="top">
       <a href="https://github.com/steinwitt/rescuenet">
-        <!-- Raw URL since image is in a different repo -->
         <img src="https://raw.githubusercontent.com/steinwitt/rescuenet/main/assets/enclosure.jpg" alt="RescueNET enclosure" width="250">
       </a>
     </td>
     <td valign="top">
       <b>RescueNET Transceiver</b><br>
       <a href="https://github.com/steinwitt/rescuenet">PCB Repo</a><br>
-      Designing a life-saving PCB to send emergency alerts for snowmobilers.<br/>
       <img alt="LoRa" src="https://img.shields.io/badge/LoRa-SX126x-0F9D58?style=flat">
-      <img alt="STM32" src="https://img.shields.io/badge/MCU-STM32-03234B?logo=stmicroelectronics&logoColor=white&
+      <img alt="STM32" src="https://img.shields.io/badge/MCU-STM32-03234B?logo=stmicroelectronics&logoColor=white&style=flat">
+      <img alt="BLE" src="https://img.shields.io/badge/BLE-nRF52-0093D0?logo=bluetooth&logoColor=white&style=flat">
+    </td>
+  </tr>
+</table>
+
+### 💻 C# Projects
+<table>
+  <tr>
+    <td width="260" valign="top">
+      <a href="https://github.com/steinwitt/snake_game">
+        <img src="assets/snake_game.png" alt="Snake Game" width="250">
+      </a>
+    </td>
+    <td valign="top">
+      <b>C#(.NET) Snake Game Client and MySQL Database</b><br>
+      <a href="https://github.com/steinwitt/snake_game">Game Repo</a><br>
+      Built client (and some server) side of a snake game using C# (.NET) and implemented my own application layer protocol on top of TCP.<br/>
+      <a href="https://www.youtube.com/watch?v=NGe5N1vfZBY" target="_blank" rel="noopener noreferrer" title="Watch demo on YouTube">
+        <img src="https://img.shields.io/badge/Watch%20demo-YouTube-FF0000?logo=youtube&logoColor=white&style=flat" alt="Watch demo on YouTube">
+      </a>
+    </td>
+  </tr>
+</table>
+    
