@@ -1,6 +1,6 @@
 <!-- HERO -->
 <h1 align="center">Hi, I'm Stein!</h1>
-<p align="center">Mechanical Engineering @ University of Utah • Minor in CS • PCB + Robotics + Embedded</p>
+<p align="center">Mechanical Engineering Student @ University of Utah • Minor in CS • Semiconductor & PCB/Embedded Systems Experience</p>
 <p align="center">
   <a href="https://linkedin.com/in/steinwitt">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
