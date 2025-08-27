@@ -45,14 +45,14 @@ please reach out on LinkedIn!
     </td>
     <td valign="top">
       <b>Mechatronics Competition Robot</b><br>
-      <a href="https://github.com/steinwitt/mechatronics">Robot Repo</a><br>
+      <a href="https://github.com/steinwitt/mechatronics">View More Here</a><br>
       Developed electronics and CAD design of a competition mechatronics robot<br>
-      <a href="https://youtube.com/shorts/PmtLy2ZI9Ys?si=iLD4Qep-i54EOjp_" target="_blank" rel="noopener noreferrer" title="Watch demo on YouTube">
+      <br/><a href="https://youtube.com/shorts/PmtLy2ZI9Ys?si=iLD4Qep-i54EOjp_" target="_blank" rel="noopener noreferrer" title="Watch demo on YouTube">
         <img src="https://img.shields.io/badge/Watch%20demo-YouTube-FF0000?logo=youtube&logoColor=white&style=flat" alt="Watch demo on YouTube">
       </a>
       <br/>
+      <br/><b>Skills Used:</b>&nbsp; 
       <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat">
-      <img alt="STM32" src="https://img.shields.io/badge/MCU-STM32-03234B?logo=stmicroelectronics&logoColor=white&style=flat">
       <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-CSWA-E10000?style=flat">
     </td>
   </tr>
@@ -68,8 +68,9 @@ please reach out on LinkedIn!
     </td>
     <td valign="top">
       <b>I²C Controlled Motor Driver PCB</b><br>
-      <a href="https://github.com/steinwitt/motor_driver_pcb">PCB Repo</a><br>
+      <a href="https://github.com/steinwitt/motor_driver_pcb">View More Here</a><br>
       Designed and manufactured a motor driver PCB with I²C temperature monitoring.<br/>
+      <br/><b>Skills Used:</b>&nbsp; 
       <img alt="Altium" src="https://img.shields.io/badge/EDA-Altium-AC6E2F?logo=altiumdesigner&logoColor=white&style=flat">
       <img alt="I2C" src="https://img.shields.io/badge/I²C-communication-4B5563?style=flat">
       <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat">
@@ -84,7 +85,10 @@ please reach out on LinkedIn!
     </td>
     <td valign="top">
       <b>RescueNET Transceiver</b><br>
-      <a href="https://github.com/steinwitt/rescuenet">PCB Repo</a><br>
+      <a href="https://github.com/steinwitt/rescuenet">View More Here</a><br>
+      Currently designing a PCB that detects when snowmobilers are stuck upside down, which induces suffocation, 
+      and sends an emergency signal to riders nearby via LoRa Radio.<br/>
+      <br/><b>Skills Used:</b>&nbsp; 
       <img alt="LoRa" src="https://img.shields.io/badge/LoRa-SX126x-0F9D58?style=flat">
       <img alt="STM32" src="https://img.shields.io/badge/MCU-STM32-03234B?logo=stmicroelectronics&logoColor=white&style=flat">
       <img alt="BLE" src="https://img.shields.io/badge/BLE-nRF52-0093D0?logo=bluetooth&logoColor=white&style=flat">
@@ -102,12 +106,17 @@ please reach out on LinkedIn!
     </td>
     <td valign="top">
       <b>C#(.NET) Snake Game Client and MySQL Database</b><br>
-      <a href="https://github.com/steinwitt/snake_game">Game Repo</a><br>
+      <a href="https://github.com/steinwitt/snake_game">View More Here</a><br>
       Built client (and some server) side of a snake game using C# (.NET) and implemented my own application layer protocol on top of TCP.<br/>
-      <a href="https://www.youtube.com/watch?v=NGe5N1vfZBY" target="_blank" rel="noopener noreferrer" title="Watch demo on YouTube">
+      <br/><a href="https://www.youtube.com/watch?v=NGe5N1vfZBY" target="_blank" rel="noopener noreferrer" title="Watch demo on YouTube">
         <img src="https://img.shields.io/badge/Watch%20demo-YouTube-FF0000?logo=youtube&logoColor=white&style=flat" alt="Watch demo on YouTube">
       </a>
+      <br/>
+      <b><br/>Skills Used:</b>&nbsp;
+      <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat">
+      <img alt="SQL (MySQL)" src="https://img.shields.io/badge/SQL-MySQL-4479A1?logo=mysql&logoColor=white&style=flat">
     </td>
   </tr>
 </table>
+
     
