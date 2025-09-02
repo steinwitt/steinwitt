@@ -11,7 +11,7 @@
 
 <!-- ABOUT -->
 ### 👋 About Me
-I am a Mechanical Engineering Student at the University of Utah with a Minor in Computer Science graduating in May of 2026 with a strong interest in PCB Design, Robotics, and Embedded Systems. Outisde of engineering, I am an avid skier/biker and I compete in the US Hard Enduro Series Motorcycle races! I love building devices that align wiht my hobbies of skiing and biking in my free time. If you want to talk,
+I am a Mechanical Engineering Student at the University of Utah with a Minor in Computer Science graduating in May of 2026 with a strong interest in PCB Design, Robotics, and Embedded Systems. Outisde of engineering, I am an avid skier/biker and I compete in the US Hard Enduro Series Motorcycle races! I love building devices that align with my hobbies of skiing and biking in my free time. If you want to talk,
 please reach out on LinkedIn!
 
 <!-- OPTIONAL tech strip -->
